@@ -983,7 +983,7 @@ b i:last-child {
 		left: 50%;
 		margin-left: -12px;
 		border-radius: 15px;
-		border: 1px solid #888;
+		border: 1px solid #ffeedb;
 		-webkit-animation: intro 1s;
 		animation: intro 1s;
 }
@@ -994,7 +994,7 @@ b i:last-child {
 	  height: 5px;
 	  margin: 6px auto;
 	  border-radius: 4px;
-	  background: #999;
+	  background: #FFAC81;
 	  -webkit-animation: finger 2s infinite;
 	  animation: finger 2s infinite;
 }
