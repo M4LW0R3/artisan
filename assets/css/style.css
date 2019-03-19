@@ -2317,7 +2317,7 @@ ul.services-list li{
 -------------------------------- */
 
 .site-hero-contact {
-    background: url("../img/site-hero-contact.jpg") no-repeat;
+    background: url("../img/c.a.scarberry-20171022-0002.jpg") no-repeat;
     background-size: cover;
     height: 600px;
     width: 100%;
@@ -2335,7 +2335,7 @@ ul.services-list li{
 }
 
 .site-hero-contact h2{
-		color: #777;
+		color: #ffeedb;
     text-transform: uppercase;
     font-size: 25px;
     line-height: 2;
@@ -2347,7 +2347,7 @@ ul.services-list li{
 }
 
 .detail h3 {
-    color: #000;
+    color: #131313;
     font-weight: 700;
     font-size: 15px;
     text-transform: uppercase;
